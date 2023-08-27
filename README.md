@@ -11,8 +11,8 @@ their userbase and its needs, and coming up with ways to improve the platform's 
 # Our Analysis
 ![Introduction](slides/Intro.png)
 ## Introduction - User Demographics
-In analyzing the user demographics, we came across a couple interesting findings, which we considered to be statistics
-you would not expect beforehand. These three statistics are:
+In analyzing the user demographics, we came across a couple interesting findings, or data points we considered to be unexpected.
+The three categories were:
 * Gender
 * Question Categories
 * User Geography
